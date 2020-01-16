@@ -1,0 +1,5 @@
+#It's just a todo list)
+
+1. Add handler which will be handle errors like "<UNKNOWN> CHARSET" and so on
+2. Add work with MyISAM
+3. Add moving index files to MySQL directory as well
